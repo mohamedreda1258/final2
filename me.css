@@ -1,0 +1,498 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+/*.content {
+background-color: black;
+height: 9%;
+width: 100%;
+}
+*/
+
+.content .nav {
+    width: 100%;
+    height: 11vh;
+    background-color: black;
+}
+
+.nav ul {
+    list-style: none;
+}
+
+.content .nav .center li {
+    margin-left: 60px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+    float: left;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+.content .nav .center li a {
+    color: wheat;
+    text-decoration: none;
+}
+
+.content .nav .center {
+    margin-left: 400px;
+}
+
+.content .nav ul li .a1 {
+    border: 1px solid;
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+    border-radius: 20px;
+    color: white;
+    background-color: orangered;
+    width: 120px;
+    height: 35px;
+    margin-top: 15px;
+    font-size: 17px;
+    text-align: center;
+}
+
+.id {
+    width: 100%;
+    height: 100vh;
+}
+
+.id .id1 {
+    width: 100%;
+    height: 100vh;
+    color: blue;
+    overflow: hidden;
+}
+
+.id .id1 img {
+    width: 100%;
+    font-size: 100% 100%;
+    position: absolute;
+}
+
+.id .id1 P {
+    top: 300px;
+    left: 570px;
+    color: white;
+    position: relative;
+    font-size: 20px;
+}
+
+.id .id1 h1 {
+    top: 300px;
+    left: 530px;
+    color: white;
+    position: relative;
+    font-size: 35px;
+}
+
+.id .id1 h3 {
+    top: 310px;
+    left: 30px;
+    color: white;
+    position: relative;
+    font-size: 35px;
+}
+
+
+/*---------------------------------------------------------------*/
+
+.id .id1 button {
+    top: 310px;
+    left: 550px;
+    background-color: orangered;
+    color: white;
+    position: relative;
+    width: 200px;
+    font-size: 27px;
+    border-radius: 25px;
+}
+
+
+/*media for tablet
+@media(){
+
+}
+-----------------------------------------------------------
+
+/*media for mobile
+
+@media (){
+
+
+
+}
+
+-------------------------------------------------------*/
+
+
+/*
+.id2 {
+    width: 100%;
+    height: 80%;
+    background-color: wheat;
+    display: flex;
+    position: absolute;
+}
+
+.id2 .last {
+    width: 25%;
+    height: 90%;
+    background-color: wheat;
+    position: relative;
+    margin-top: 150px;
+    /*top: 150px;
+    left: 50px;
+    
+}
+
+.id2 .last ul {
+    list-style: none;
+}
+
+.id2 .last ul li {
+    margin-bottom: 40px;
+    border-radius: 25px;
+}
+
+id2 .frist img {
+    background-color: brown;
+    width: 100%;
+    height: 50vh;
+}
+
+.id2 .last ul li a {
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+    border-radius: 30px;
+    margin-left: 50px;
+    border: 2px solid transparent;
+    background-color: transparent;
+    transition-duration: 0.5s;
+}
+
+.id2 .last ul li :hover {
+    color: blue;
+    transform: scale(0.5);
+}
+
+.id2 .frist {
+    position: relative;
+    width: 80%;
+    height: 70%;
+    background-color: wheat;
+}
+
+.id2 .frist .im {
+    width: 350px;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 20px;
+}
+
+.id2 .frist .im2 {
+    width: 350px;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 20px;
+    height: 190px;
+}
+
+.id2 .frist .im3 {
+    width: 350px;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 20px;
+}
+
+.id2 .frist .im4 {
+    width: 350px;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 20px;
+}
+*/
+
+
+/* ----------------for tablet
+@media(){
+
+}
+------------------------for mobile
+@media(){
+
+}
+-----------------------------*/
+
+.end5 {
+    width: 100%;
+    height: 100vh;
+    background-color: wheat;
+    display: flex;
+}
+
+
+/*.end5 .t1 {
+    width: 24%;
+    height: 50%;
+    margin-top: 500px;
+}
+
+.end5 .t2 {
+    width: 24%;
+    height: 50%;
+    float: left;
+}
+
+.end5 .t3 {
+    width: 24%;
+    height: 50%;
+}
+
+.end5 .t4 {
+    width: 24%;
+    height: 50%;
+}*/
+
+.end1 {
+    width: 100%;
+    height: 80vh;
+    background-color: wheat;
+    display: flex;
+    position: relative;
+}
+
+.end1 .t1 {
+    position: absolute;
+    left: 150px;
+    top: 200px;
+    border: 1px solid white;
+    height: 80px;
+    width: 200px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.end1 .t2 {
+    position: absolute;
+    left: 450px;
+    top: 200px;
+    border: 1px solid white;
+    height: 80px;
+    width: 200px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.end1 .t3 {
+    position: absolute;
+    left: 700px;
+    top: 200px;
+    border: 1px solid white;
+    height: 80px;
+    width: 200px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.end1 .t4 {
+    position: absolute;
+    left: 950px;
+    top: 200px;
+    border: 1px solid white;
+    height: 80px;
+    width: 200px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.fe {
+    width: 100%;
+    height: 70%;
+    background-color: rgb(57, 48, 48);
+    display: flex;
+}
+
+.fe .fe1 {
+    width: 24%;
+}
+
+.fe .fe1 h3 {
+    font-size: 30px;
+    color: white;
+}
+
+.fe .fe1 p {
+    color: white;
+}
+
+.fe .fe2 {
+    margin-left: 50px;
+    font-size: 20px;
+    color: white;
+}
+
+.fe .fe2 ul {
+    list-style: none;
+}
+
+.fe .fe3 {
+    margin-left: 100px;
+    font-size: 25px;
+    color: white;
+}
+
+.fe .fe3 ul {
+    list-style: none;
+}
+
+.fe .fe4 {
+    margin-top: 0px;
+    margin-left: 110px;
+    color: white;
+    font-size: 25px;
+}
+
+.fe .fe4 ul {
+    list-style: none;
+}
+
+.row {
+    width: 100%;
+    height: 100%;
+    background-color: wheat;
+}
+
+.row .col-3 {
+    background-color: wheat;
+    width: 100%;
+    height: 100%;
+    padding: 20px 5px;
+    margin-top: 450px;
+    font-size: 30px;
+}
+
+.col-9 {
+    margin-top: 150px;
+    background-color: wheat;
+    display: flex;
+}
+
+.col-9 .tab-content .im1 {
+    margin-top: 250px;
+}
+
+.col-9 .tab-content .im1 .o1 {
+    width: 300px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im1 .o2 {
+    margin-left: 80px;
+    width: 300px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im1 .o3 {
+    width: 300px;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im1 .o4 {
+    width: 300px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.col-9 .tab-content .im2 {
+    margin-top: 250px;
+}
+
+.col-9 .tab-content .im2 .o5 {
+    width: 300px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im2 .o6 {
+    width: 350px;
+    margin-left: 80px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im2 .o7 {
+    width: 300px;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+
+.col-9 .tab-content .im2 .o8 {
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im3 {
+    margin-top: 250px;
+}
+
+.col-9 .tab-content .im3 .o9 {
+    width: 300px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im3 .o10 {
+    width: 300px;
+    margin-left: 90px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im3 .o11 {
+    width: 300px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im3 .o12 {
+    width: 400px;
+    margin-left: 80px;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+
+.col-9 .tab-content .im4 {
+    margin-top: 250px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im4 {
+    margin-top: 250px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im4 .o13 {
+    width: 300px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im4 .o14 {
+    width: 300px;
+    margin-left: 90px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im4 .o15 {
+    width: 300px;
+    border-radius: 25px;
+}
+
+.col-9 .tab-content .im4 .o16 {
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 25px;
+}
